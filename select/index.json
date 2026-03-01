@@ -1,0 +1,96 @@
+{
+  "version": 1,
+  "base_track": "Denting",
+  "base_artist": "Melly",
+  "createdAt": "2026-03-01T16:37:53.065803Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Denting",
+      "artist": "Petra Sihombing",
+      "has_synced": true,
+      "path": "select/01_Denting_Petra_Sihombing.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Denting",
+      "artist": "Petra Sihombing",
+      "has_synced": true,
+      "path": "select/02_Denting_Petra_Sihombing.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Denting Gelas Akhir Pekan",
+      "artist": "The Cloves and The Tobacco",
+      "has_synced": true,
+      "path": "select/03_Denting_Gelas_Akhir_Pekan_The_Cloves_and_The_Tobacco.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Denting",
+      "artist": "Melly Goeslaw",
+      "has_synced": true,
+      "path": "select/04_Denting_Melly_Goeslaw.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Denting",
+      "artist": "Petra Sihombing",
+      "has_synced": true,
+      "path": "select/05_Denting_Petra_Sihombing.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Denting",
+      "artist": "Fadhilah Intan, Perdana Kemilau (Copyright Control), Perdana Kemilau",
+      "has_synced": true,
+      "path": "select/06_Denting_Fadhilah_Intan,_Perdana_Kemilau_(Copyright_Control),_Perdana_Kemilau.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Denting Asmara",
+      "artist": "SAMSONS",
+      "has_synced": false,
+      "path": "select/07_Denting_Asmara_SAMSONS.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "DENTING - MELLY GOESLAW ( Cover by Fadhilah Intan )",
+      "artist": "Fadhilah Intan",
+      "has_synced": false,
+      "path": "select/08_DENTING_-_MELLY_GOESLAW_(_Cover_by_Fadhilah_Intan_)_Fadhilah_Intan.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "114.Denting",
+      "artist": "Petra Sihombing",
+      "has_synced": true,
+      "path": "select/09_114.Denting_Petra_Sihombing.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Denting Nada Luka",
+      "artist": "Thomas Arya",
+      "has_synced": true,
+      "path": "select/10_Denting_Nada_Luka_Thomas_Arya.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Denting",
+      "artist": "Melly Goeslaw",
+      "has_synced": false,
+      "path": "select/pl_01_Denting_Melly_Goeslaw.txt"
+    }
+  ]
+}
